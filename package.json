@@ -7,7 +7,7 @@
     "url": "git+https://github.com/Apsalus/FullStack.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node src/server.js"
+    "dev": "nodemon --exec babel-node src/init.js"
   },
   "author": "DongJun <allnight724@gmail.com>",
   "license": "MIT",
